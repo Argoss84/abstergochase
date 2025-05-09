@@ -16,7 +16,7 @@ import {
       <IonPage id="CreateLobby-page">
         <IonHeader>
           <IonToolbar>
-            <IonTitle>CreateLobby </IonTitle>
+            <IonTitle> CreateLobby </IonTitle>
           </IonToolbar>
         </IonHeader>
         <IonContent fullscreen>
